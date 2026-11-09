@@ -1,0 +1,190 @@
+﻿uniprot_referensi,nama_protein_referensi,organisme_referensi,id_penelitian
+A2Y053,S-adenosylmethionine synthase 1,Oryza sativa subsp. indica,c151117/f1p65/1577;c175100/f1p6/1770;c191230/f1p0/1626
+A2YWQ1,Heat shock protein 81-1,Oryza sativa subsp. indica,c1464/f1p274/2777;c16896/f1p79/2044;c1762/f1p763/4716;c340348/f1p0/1840
+A7Q0V4,S-adenosylmethionine synthase 5,Vitis vinifera,c116615/f1p97/1557;c15175/f1p302/2243;c21455/f1p287/2777;c226113/f1p48/1490;c28697/f1p472/2766;c38362/f1p470/2093
+A9PEK8,S-adenosylmethionine synthase 3,Populus trichocarpa,c15576/f1p292/2400
+B6EUA9,Pre-mRNA-processing protein 40A,Arabidopsis thaliana,c14345/f1p91/3202;c16898/f1p89/3964;c22730/f1p78/2230;c2442/f1p83/4991;c28399/f1p87/3854;c32098/f1p86/3242
+B6F107,Casein kinase II subunit alpha-2,Oryza sativa subsp. japonica,c26841/f1p64/3364
+B8B0E2,"Stromal processing peptidase, chloroplastic",Oryza sativa subsp. indica,c2308/f1p19/4138
+B9FDT1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1B,Oryza sativa subsp. japonica,c45407/f5p38/1737
+B9FSC8,Putative 12-oxophytodienoate reductase 11,Oryza sativa subsp. japonica,c5083/f3p2/1256
+C0SV51,Calmodulin-binding protein 60 C,Arabidopsis thaliana,c25232/f1p13/2062;c88664/f1p33/2061
+D4N500,Thebaine 6-O-demethylase,Papaver somniferum,c2767/f1p19/2990
+F4IIM1,Protein CELLULOSE SYNTHASE INTERACTIVE 1,Arabidopsis thaliana,c27580/f1p18/3689;c70411/f1p5/1651
+F4IS56,Integrin-linked protein kinase 1,Arabidopsis thaliana,c138373/f4p14/1759
+F4IXW2,Brefeldin A-inhibited guanine nucleotide-exchange protein 5,Arabidopsis thaliana,c21236/f2p90/3585
+F4JR57,Calmodulin-binding protein 60 F,Arabidopsis thaliana,c3390/f1p60/3997
+F4K410,"Putative elongation factor TypA-like SVR3, chloroplastic",Arabidopsis thaliana,c16983/f1p71/3728;c28778/f1p71/3328;c9793/f1p66/2113
+F6H9A9,"Thiamine thiazole synthase 1, chloroplastic",Vitis vinifera,c107449/f1p75/1400;c107972/f1p15/1274;c108560/f1p83/1280;c110513/f1p34/1375;c118073/f6p4/1359;c265088/f1p314/1890;c29382/f1p6/1612;c341995/f1p0/961;c38850/f1p34/1272;c63013/f1p21/1942
+O04619,Mitochondrial adenine nucleotide transporter ADNT1,Arabidopsis thaliana,c11327/f1p6/1250;c27369/f1p20/3281;c40631/f1p23/2735
+O04658,Probable nucleolar protein 5-1,Arabidopsis thaliana,c217799/f1p17/1580;c37027/f2p31/1814
+O22467,Histone-binding protein MSI1,Arabidopsis thaliana,c148147/f1p21/1622;c19281/f1p24/2123;c24893/f1p24/2499
+O23787,"Thiamine thiazole synthase, chloroplastic",Citrus sinensis,c1887/f1p228/2601;c225957/f1p10/1326
+O24312,Trans-cinnamate 4-monooxygenase,Populus tremuloides,c88562/f1p10/1325
+O24562,Probable cinnamyl alcohol dehydrogenase,Zea mays,c14693/f1p105/2189;c32705/f1p47/2105;c3898/f1p25/3630;c83491/f1p43/1495
+O48832,"Protein EARLY-RESPONSIVE TO DEHYDRATION 7, chloroplastic",Arabidopsis thaliana,c138654/f5p6/1731;c70903/f1p4/1069
+O65039,Vignain,Ricinus communis,c218975/f2p9/1228
+O65351,Subtilisin-like protease SBT1.7,Arabidopsis thaliana,c25740/f1p92/3831
+O80476,Methylesterase 2,Arabidopsis thaliana,c116549/f1p27/1854
+O80977,Vacuolar-sorting receptor 3,Arabidopsis thaliana,c66810/f1p2/2029
+O80983,"ATP-dependent zinc metalloprotease FTSH 4, mitochondrial",Arabidopsis thaliana,c14665/f1p73/2780;c2004/f1p83/4835;c23428/f1p70/3760;c2524/f1p75/4570;c3305/f1p75/4202;c367/f1p74/4241;c40331/f1p74/3769
+O81283,"Translocase of chloroplast 159, chloroplastic",Arabidopsis thaliana,c1877/f1p43/2134;c2781/f1p70/4680
+O81845,Mitochondrial uncoupling protein 1,Arabidopsis thaliana,c40643/f2p14/1282;c62169/f1p12/1196;c6833/f1p12/1372
+O82491,FACT complex subunit SPT16,Arabidopsis thaliana,c27380/f1p33/3510
+O82515,Probable mannitol dehydrogenase,Medicago sativa,c116256/f2p5/1450
+O82802,"Sulfite reductase 1 [ferredoxin], chloroplastic",Nicotiana tabacum,c16489/f1p177/2934;c16760/f1p441/2827;c17897/f1p170/2879;c1843/f1p192/4159;c2219/f1p193/4412;c22799/f1p192/3657;c23917/f1p180/3589;c30052/f1p189/3358;c32186/f1p191/3259;c36/f2p193/4479
+P04078,Glutamine synthetase cytosolic isozyme,Medicago sativa,c149752/f1p22/1634;c32596/f1p139/2406;c33954/f1p230/2588
+P08282,Glutamine synthetase nodule isozyme,Pisum sativum,c265234/f1p106/1909;c271724/f1p20/1845
+P0C1U4,Endoglucanase 9,Oryza sativa subsp. japonica,c109307/f1p118/1646;c16185/f1p141/3774;c1679/f1p126/2664;c26073/f1p135/3214;c35610/f1p107/2970
+P0DKK7,60S ribosomal protein L7a-2,Oryza sativa subsp. japonica,c273959/f1p15/1783
+P21529,Serine carboxypeptidase 3,Hordeum vulgare,c25578/f1p35/2895;c39308/f1p24/1226
+P22953,Probable mediator of RNA polymerase II transcription subunit 37e,Arabidopsis thaliana,c27168/f1p43/3158;c37738/f1p168/2149
+P23444,Histone H1,Zea mays,c22836/f1p34/1083;c278284/f1p50/1155;c41358/f1p56/1384;c44085/f1p187/1876
+P24314,Proliferating cell nuclear antigen,Catharanthus roseus,c18704/f2p4/1097
+P27322,Heat shock cognate 70 kDa protein 2,Solanum lycopersicum,c1861/f1p386/2177;c24707/f1p149/2033;c27198/f1p230/2969;c28307/f1p69/2106;c29295/f1p555/4282;c32949/f1p632/3278;c33826/f1p796/2859;c34751/f1p700/3690;c35399/f1p789/3916;c36536/f1p131/2355;c4077/f1p165/3870;c42281/f1p247/2224;c44307/f1p73/1942
+P28523,Casein kinase II subunit alpha,Zea mays,c68649/f1p71/1867
+P28723,Formate--tetrahydrofolate ligase,Spinacia oleracea,c34574/f1p21/2285
+P29162,L-ascorbate oxidase homolog,Nicotiana tabacum,c258695/f3p23/1804;c4165/f1p18/2283
+P31251,Ubiquitin-activating enzyme E1 2,Triticum aestivum,c2479/f1p52/5491;c26079/f1p60/3471;c27149/f1p48/3625
+P31757,Alliin lyase,Allium cepa,c22138/f2p1/1540
+P32289,Glutamine synthetase nodule isozyme,Vigna aconitifolia,c24491/f1p125/2685
+P35681,Translationally-controlled tumor protein homolog,Oryza sativa subsp. japonica,c245779/f1p16/957;c297451/f1p17/837
+P35685,60S ribosomal protein L7a-1,Oryza sativa subsp. japonica,c302349/f24p29/1033
+P37891,Serine carboxypeptidase 3,Oryza sativa subsp. japonica,c114743/f1p27/1179;c62410/f1p3/1039
+P40781,Protein CYPRO4,Cynara cardunculus,c11322/f1p17/2111;c22623/f1p16/1473
+P41127,60S ribosomal protein L13-1,Arabidopsis thaliana,c1890/f1p79/3093;c254600/f1p92/895;c264196/f1p47/933;c346105/f1p11/734;c60493/f1p56/991;c93025/f1p34/976;c94697/f1p217/1574
+P42824,DnaJ protein homolog 2,Allium porrum,c12406/f1p195/2049;c1535/f3p230/2553;c219498/f1p214/1906;c23266/f1p260/2764;c33908/f1p233/2796
+P45727,Phenylalanine ammonia-lyase,Persea americana,c11315/f1p23/2741
+P45729,Phenylalanine ammonia-lyase 3,Petroselinum crispum,c14606/f1p46/3127;c68310/f1p8/2095
+P46423,Glutathione S-transferase,Hyoscyamus muticus,c104102/f1p32/896
+P52416,"Glucose-1-phosphate adenylyltransferase small subunit 1, chloroplastic",Vicia faba,c175664/f1p5/1702
+P52712,Serine carboxypeptidase-like,Oryza sativa subsp. japonica,c111440/f10p34/1739;c34730/f1p28/2675;c37752/f1p20/1893
+P54774,Cell division cycle protein 48 homolog,Glycine max,c1017/f1p355/4201;c10809/f1p215/2293;c2021/f1p359/4318;c21841/f1p203/3108;c2266/f1p368/5102;c2634/f1p291/4525;c29403/f1p327/3213;c30605/f1p99/2850;c966/f1p274/4428
+P55217,"Cystathionine gamma-synthase 1, chloroplastic",Arabidopsis thaliana,c15645/f1p12/2171
+P58223,KH domain-containing protein At4g18375,Arabidopsis thaliana,c35187/f1p98/3138;c35288/f1p134/2482;c54/f1p8001/7000
+P84516,Cationic peroxidase SPC4,Sorghum bicolor,c317700/f1p2/1273
+P85076,Pectinesterase,Actinidia deliciosa,c31853/f1p183/2058;c3253/f1p271/3729;c34508/f1p247/2305;c34823/f1p214/2928
+P92916,"Bifunctional 6(G)-fructosyltransferase/2,1-fructan:2,1-fructan 1-fructosyltransferase",Allium cepa,c1120/f1p213/4310;c16119/f1p209/2715;c16380/f1p187/2337;c22923/f1p97/2754;c27987/f1p90/2504;c28652/f1p245/3964;c31505/f1p86/2241;c31586/f1p191/2254;c32699/f1p207/2892;c34603/f1p170/3133;c36055/f1p237/3477
+P92939,"Calcium-transporting ATPase 1, endoplasmic reticulum-type",Arabidopsis thaliana,c21292/f2p55/3707
+P93033,"Fumarate hydratase 1, mitochondrial",Arabidopsis thaliana,c17774/f1p26/3296;c235743/f1p24/1894;c27764/f1p27/2961
+Q00874,DNA damage-repair/toleration protein DRT100,Arabidopsis thaliana,c107059/f4p9/1303
+Q01899,"Heat shock 70 kDa protein, mitochondrial",Phaseolus vulgaris,c18184/f1p14/2116;c28668/f1p24/1588
+Q02028,"Stromal 70 kDa heat shock-related protein, chloroplastic",Pisum sativum,c22812/f1p89/3787;c24789/f1p147/3937;c36501/f1p182/3934;c4287/f1p153/4312;c8185/f1p160/2395
+Q02439,"Putative glucan endo-1,3-beta-glucosidase GVI (Fragment)",Hordeum vulgare,c27131/f2p14/1774
+Q03878,Glycine-rich RNA-binding protein,Daucus carota,c341062/f1p5/704
+Q05966,Glycine-rich RNA-binding protein 10,Brassica napus,c176436/f1p47/1270
+Q07346,Glutamate decarboxylase,Petunia hybrida,c212849/f6p34/1812;c4169/f1p26/2539
+Q0DA21,Beta-glucosidase 25,Oryza sativa subsp. japonica,c26268/f1p14/1850
+Q0DKY4,S-adenosylmethionine synthase 1,Oryza sativa subsp. japonica,c114452/f1p45/1671
+Q0J360,"Beta-fructofuranosidase, insoluble isoenzyme 7",Oryza sativa subsp. japonica,c150813/f1p99/1979;c22568/f1p548/3181;c23222/f1p147/3222
+Q0J4P2,Heat shock protein 81-1,Oryza sativa subsp. japonica,c3002/f1p735/4724;c32609/f1p245/2262
+Q0J7U6,Protein TPR2,Oryza sativa subsp. japonica,c1657/f1p62/4769;c1965/f1p28/2495;c2095/f1p88/4036;c2273/f1p76/5381;c33156/f1p70/3900
+Q0JLS6,Protein ROOT HAIR DEFECTIVE 3,Oryza sativa subsp. japonica,c1348/f1p129/4646;c1374/f1p128/4218;c1844/f1p168/5047;c1860/f1p163/4542;c2028/f1p132/4498;c2149/f1p170/5178;c2191/f1p131/4645;c2409/f1p138/4946;c2522/f1p168/5250;c28016/f1p103/3539;c32463/f1p149/2917;c3298/f1p132/4062
+Q0JNR2,Cysteine proteinase inhibitor 12,Oryza sativa subsp. japonica,c299559/f1p13/913
+Q10716,Cysteine proteinase 1,Zea mays,c227692/f1p27/1993;c40296/f1p26/2470
+Q10S70,Expansin-like A1,Oryza sativa subsp. japonica,c15092/f1p16/2653;c34878/f1p15/2396;c52488/f1p12/945
+Q39219,"Ubiquinol oxidase 1a, mitochondrial",Arabidopsis thaliana,c20431/f1p18/1278
+Q39693,"Beta-fructofuranosidase, insoluble isoenzyme 3",Daucus carota,c30414/f1p65/2117;c30457/f1p63/2192;c31145/f1p131/3275
+Q40522,Ras-related protein Rab11D,Nicotiana tabacum,c85072/f1p6/1433
+Q41233,Alliin lyase 2,Allium sativum,c221394/f1p14/1807;c41810/f1p19/1220
+Q41607,Sucrose synthase 2,Tulipa gesneriana,c255/f1p368/4997;c29434/f1p296/3017
+Q41608,Sucrose synthase 1,Tulipa gesneriana,c15659/f1p243/3272;c1869/f1p194/4951;c2069/f1p455/4654;c21141/f2p393/3490;c25439/f1p314/2658;c26422/f1p396/3220;c26530/f1p343/3263;c30124/f1p206/3872;c33259/f1p402/3918;c33549/f1p319/2494;c35905/f1p396/3419;c40956/f1p434/3782;c812/f1p412/4340
+Q42540,Ubiquitin-conjugating enzyme E2 7,Arabidopsis thaliana,c177622/f1p26/1891;c337936/f1p12/735;c74643/f1p24/846
+Q42605,Bifunctional UDP-glucose 4-epimerase and UDP-xylose 4-epimerase 1,Arabidopsis thaliana,c21895/f1p44/2081;c232593/f1p44/1655
+Q42609,Phenylalanine ammonia-lyase,Bromheadia finlaysoniana,c3369/f1p14/2256
+Q42908,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Mesembryanthemum crystallinum,c114302/f1p165/1588;c22223/f1p230/2805;c23121/f1p243/3685;c31217/f1p244/3247
+Q43054,Trans-cinnamate 4-monooxygenase,Populus kitakamiensis,c70286/f1p12/1308
+Q43070,UDP-glucose 4-epimerase,Pisum sativum,c16732/f1p41/2111;c1784/f1p41/2363;c179575/f1p54/1624
+Q43472,Glycine-rich RNA-binding protein blt801,Hordeum vulgare,c301655/f1p82/836
+Q5FC15,6(G)-fructosyltransferase,Asparagus officinalis,c20661/f3p15/2267;c24661/f1p84/2679;c25197/f1p105/3662;c31660/f1p101/3541;c70255/f1p30/2041
+Q5JJV0,"Beta-fructofuranosidase, insoluble isoenzyme 4",Oryza sativa subsp. japonica,c16172/f1p145/2688;c17068/f1p74/2313
+Q5JK39,Long chain base biosynthesis protein 2d,Oryza sativa subsp. japonica,c32377/f1p81/3324;c33968/f1p82/3207;c40205/f1p79/3168;c44226/f1p70/1519;c46/f1p75/7601
+Q5N7W4,DEAD-box ATP-dependent RNA helicase 30,Oryza sativa subsp. japonica,c144996/f1p62/1726;c21222/f2p79/2638;c221838/f2p38/1928;c281757/f1p51/1899;c3172/f1p38/1570;c32549/f1p79/3771;c40301/f1p83/3696
+Q5VNM3,Eukaryotic initiation factor 4A-III homolog A,Oryza sativa subsp. japonica,c134874/f5p171/1582;c15601/f1p131/2720;c16/f1p712/6714;c16328/f1p175/2656;c30374/f1p192/3177;c4815/f1p124/2398
+Q60EX6,Serine/threonine-protein phosphatase BSL1 homolog,Oryza sativa subsp. japonica,c219895/f1p52/1631
+Q6ESZ9,Serine decarboxylase 1,Oryza sativa subsp. japonica,c1351/f1p93/2481;c1357/f1p82/2266;c13859/f1p95/3154;c1458/f1p100/2761;c16656/f1p102/2608;c17404/f1p105/2972;c26223/f1p108/3350;c27593/f1p563/3305;c32335/f1p100/3270;c33525/f1p96/2280;c35934/f1p73/1807;c36417/f1p65/1921
+Q6I587,Calcium-dependent protein kinase 15,Oryza sativa subsp. japonica,c275176/f1p13/1925
+Q6IDL4,Transmembrane emp24 domain-containing protein p24delta3,Arabidopsis thaliana,c45730/f1p2/956
+Q6K4T4,LRR receptor kinase SERK2,Oryza sativa subsp. japonica,c118937/f1p20/1470;c1419/f1p34/5069;c20162/f6p38/2140
+Q6YS30,DEAD-box ATP-dependent RNA helicase 5,Oryza sativa subsp. japonica,c13914/f1p141/3149;c16882/f1p233/2880;c24573/f1p152/3550;c26356/f1p149/3277;c28120/f1p89/1702;c28624/f1p151/3880;c28748/f1p153/3393;c32144/f1p153/3098;c41227/f1p147/3437
+Q6Z1C0,Nucleolin 1,Oryza sativa subsp. japonica,c26933/f1p32/2178;c27471/f1p34/2785;c36274/f1p38/3949;c59598/f1p36/2134;c7021/f1p25/2372
+Q7F9I1,"Chaperone protein ClpC1, chloroplastic",Oryza sativa subsp. japonica,c24516/f1p133/3142
+Q7XSQ9,Probable aquaporin PIP1-2,Oryza sativa subsp. japonica,c48287/f1p44/1298
+Q84JU4,Protein-tyrosine-phosphatase IBR5,Arabidopsis thaliana,c33145/f1p8/902;c41783/f1p5/979
+Q84P25,4-coumarate--CoA ligase-like 2,Arabidopsis thaliana,c261046/f2p6/2013
+Q84PB7,"Protein THYLAKOID FORMATION1, chloroplastic",Oryza sativa subsp. japonica,c121531/f3p3/1179
+Q84R49,Endoglucanase 10,Oryza sativa subsp. japonica,c36348/f1p140/3727
+Q8GYA6,26S proteasome non-ATPase regulatory subunit 13 homolog B,Arabidopsis thaliana,c258566/f3p38/1555
+Q8H136,DEAD-box ATP-dependent RNA helicase 14,Arabidopsis thaliana,c9830/f1p37/2431
+Q8H8T0,UDP-arabinopyranose mutase 1,Oryza sativa subsp. japonica,c145642/f1p2/1205;c19283/f1p118/1975;c233888/f1p63/1660;c70595/f1p102/2035
+Q8L7S6,Beta-hexosaminidase 3,Arabidopsis thaliana,c150095/f1p4/1835
+Q8L7V3,Probable methyltransferase PMT26,Arabidopsis thaliana,c17905/f1p182/3233;c30522/f1p94/2817;c41195/f1p158/3192
+Q8LDP4,Peptidyl-prolyl cis-trans isomerase CYP19-4,Arabidopsis thaliana,c177702/f1p141/1724;c23508/f1p7/1079;c303328/f6p31/1058
+Q8LFT2,Dynamin-related protein 3B,Arabidopsis thaliana,c1059/f2p73/2257;c1320/f1p89/4390
+Q8LPS1,"Long chain acyl-CoA synthetase 6, peroxisomal",Arabidopsis thaliana,c40031/f1p22/2678
+Q8LQJ8,"ATP-dependent zinc metalloprotease FTSH 5, mitochondrial",Oryza sativa subsp. japonica,c13506/f1p159/2865;c2147/f1p69/2773
+Q8RU27,Probable UDP-arabinopyranose mutase 2,Solanum tuberosum,c1242/f1p205/2287;c145070/f1p44/1523;c153973/f1p4/1355;c158139/f1p36/1781;c15888/f1p127/2216;c16434/f1p187/2198;c224678/f1p13/1543;c2545/f1p173/2780;c27133/f1p209/2382;c28182/f1p208/2535;c3173/f1p901/2389;c4443/f1p149/2394;c89047/f1p6/1991
+Q8S944,Dynamin-related protein 3A,Arabidopsis thaliana,c15014/f1p89/3370
+Q8S9J6,Aspartyl protease family protein At5g10770,Arabidopsis thaliana,c138071/f1p18/1598;c16696/f1p19/2663;c27458/f1p17/2203
+Q8W0E4,Probable serine acetyltransferase 1,Oryza sativa subsp. japonica,c12637/f3p2/1110
+Q93YZ7,"Acetolactate synthase small subunit 2, chloroplastic",Arabidopsis thaliana,c140411/f1p42/1794;c154433/f2p44/1962;c223568/f1p34/1865;c236556/f1p43/1640;c25591/f1p46/2474
+Q940Q1,Probable pectate lyase 1,Arabidopsis thaliana,c155340/f3p10/1805
+Q944U4,S-adenosylmethionine synthase,Dendrobium crumenatum,c39469/f1p34/1446
+Q94AA4,ATP-dependent 6-phosphofructokinase 3,Arabidopsis thaliana,c113270/f1p18/1477;c228342/f4p5/1759
+Q94JQ3,"Serine hydroxymethyltransferase 3, chloroplastic",Arabidopsis thaliana,c27163/f1p86/3055
+Q94K85,Cathepsin B-like protease 3,Arabidopsis thaliana,c231205/f1p28/1538;c264951/f1p11/1575;c2971/f1p239/4906
+Q9AR27,Casein kinase II subunit alpha-2,Oryza sativa subsp. indica,c1321/f1p63/2508
+Q9AT54,Scopoletin glucosyltransferase,Nicotiana tabacum,c5886/f1p1/1528
+Q9AT55,S-adenosylmethionine synthase 2,Elaeagnus umbellata,c16480/f1p489/2323;c265792/f1p39/1258;c28556/f1p425/2443;c83308/f1p24/1643
+Q9AT75,Aquaporin TIP3-2,Zea mays,c12606/f1p5/1183
+Q9C566,Peptidyl-prolyl cis-trans isomerase CYP40,Arabidopsis thaliana,c633/f1p83/5599
+Q9C5E7,"Pumilio homolog 6, chloroplastic",Arabidopsis thaliana,c42664/f5p60/3327
+Q9C6B9,Phosphoethanolamine N-methyltransferase 3,Arabidopsis thaliana,c16997/f1p17/3699;c32271/f1p17/3400
+Q9C876,Probable cystathionine gamma-synthase 2,Arabidopsis thaliana,c282144/f1p17/1914
+Q9C899,Feruloyl CoA ortho-hydroxylase 2,Arabidopsis thaliana,c53344/f21p23/1235;c9328/f1p15/1333
+Q9FE65,60S ribosomal protein L34-2,Arabidopsis thaliana,c27626/f1p34/1254;c343532/f1p39/616
+Q9FFF4,"Acetolactate synthase small subunit 1, chloroplastic",Arabidopsis thaliana,c25281/f1p48/2141
+Q9FG65,Cytochrome P450 81D1,Arabidopsis thaliana,c273091/f1p8/1782
+Q9FHM7,Hypersensitive-induced response protein 4,Arabidopsis thaliana,c22663/f3p27/1173;c266411/f1p21/1157
+Q9FJH6,ABC transporter F family member 1,Arabidopsis thaliana,c22259/f1p137/3593;c27546/f1p164/3394;c278153/f1p96/2058;c30096/f1p161/4046;c32201/f1p158/4024;c32573/f1p100/1837;c36029/f1p165/3763;c877/f1p157/4198
+Q9FKL6,Calmodulin-binding protein 60 B,Arabidopsis thaliana,c21889/f1p23/3729;c94/f1p18/4914
+Q9FLI4,Subtilisin-like protease SBT1.3,Arabidopsis thaliana,c24839/f1p86/3752;c25509/f1p89/3663;c278/f1p73/4276
+Q9FR44,Phosphoethanolamine N-methyltransferase 1,Arabidopsis thaliana,c188404/f2p18/2103;c41059/f1p17/2212
+Q9FYV1,Inositol-3-phosphate synthase,Sesamum indicum,c55568/f3p25/1881
+Q9LF46,2-hydroxyacyl-CoA lyase,Arabidopsis thaliana,c28890/f1p34/2098
+Q9LJE4,"Chaperonin 60 subunit beta 2, chloroplastic",Arabidopsis thaliana,c32429/f1p70/2475
+Q9LPC5,Brefeldin A-inhibited guanine nucleotide-exchange protein 3,Arabidopsis thaliana,c24260/f1p10/1053
+Q9LQI9,Oligouridylate-binding protein 1B,Arabidopsis thaliana,c258310/f17p44/1702;c37568/f1p40/2044
+Q9LTH7,1-aminocyclopropane-1-carboxylate oxidase homolog 12,Arabidopsis thaliana,c9408/f1p27/1258
+Q9LUM3,Subtilisin-like protease SBT1.5,Arabidopsis thaliana,c34154/f1p92/3143;c35653/f1p91/3501
+Q9LV33,Beta-glucosidase 44,Arabidopsis thaliana,c15685/f1p93/1903;c15708/f1p333/2929;c16376/f1p195/2526;c227955/f1p27/1067;c23951/f1p313/2153;c23957/f1p279/2407;c26367/f1p372/3108;c31496/f1p322/2130;c31607/f1p345/2827;c32513/f1p279/2128;c34818/f1p804/3113;c37779/f1p288/1897;c41096/f1p362/2911;c837/f1p343/3819
+Q9LVJ1,Subtilisin-like protease SBT1.4,Arabidopsis thaliana,c26059/f1p16/2512
+Q9LVT8,RGG repeats nuclear RNA binding protein C,Arabidopsis thaliana,c277445/f1p111/1794
+Q9LY75,Peptidyl-prolyl cis-trans isomerase CYP63,Arabidopsis thaliana,c1740/f1p406/3935;c2831/f1p122/4162
+Q9LYJ9,DEAD-box ATP-dependent RNA helicase 46,Arabidopsis thaliana,c29001/f1p20/3131;c36340/f1p30/3750
+Q9LZF6,Cell division control protein 48 homolog E,Arabidopsis thaliana,c40018/f1p62/2623
+Q9LZQ9,Probable pre-mRNA-splicing factor ATP-dependent RNA helicase DEAH2,Arabidopsis thaliana,c1865/f1p58/4513;c21629/f1p57/3602;c283/f1p50/5008;c34407/f1p54/3354
+Q9M2M0,"Probable glucan endo-1,3-beta-glucosidase BG1",Arabidopsis thaliana,c88386/f1p17/1975
+Q9M5M7,60S ribosomal protein L10,Euphorbia esula,c2434/f1p218/2312;c3022/f1p118/3415;c32643/f1p242/877;c67359/f1p136/1205
+Q9M9A8,Aspartyl protease APCB1,Arabidopsis thaliana,c219217/f1p15/1781;c28594/f1p16/1104
+Q9S834,"ATP-dependent Clp protease proteolytic subunit 5, chloroplastic",Arabidopsis thaliana,c13951/f2p6/1093
+Q9SB64,Protein NBR1 homolog,Arabidopsis thaliana,c458/f1p81/2653;c82562/f1p70/1620
+Q9SB81,Peroxidase 42,Arabidopsis thaliana,c111886/f1p14/1278;c264836/f1p8/1200;c274469/f1p19/1733
+Q9SC19,Probable UDP-arabinopyranose mutase 1,Solanum tuberosum,c187276/f1p188/1222
+Q9SFF6,Pectin acetylesterase 12,Arabidopsis thaliana,c233362/f1p34/1680;c277911/f1p50/1656;c29492/f1p56/2262
+Q9SHL7,Exosome complex exonuclease RRP44 homolog A,Arabidopsis thaliana,c23127/f1p66/2109;c23964/f1p60/3427;c24758/f1p62/3336;c2779/f1p63/4915
+Q9SLZ0,Phosphoenolpyruvate carboxykinase (ATP),Zea mays,c2082/f1p94/4124;c21910/f1p84/3976;c22349/f1p93/3958;c231052/f1p38/1583;c31668/f1p80/2442;c40012/f1p67/2622
+Q9SMT7,Oxalate--CoA ligase,Arabidopsis thaliana,c260877/f2p13/1812;c64333/f1p13/1917
+Q9SQ56,RGG repeats nuclear RNA binding protein A (Fragment),Nicotiana tabacum,c24855/f1p116/2146;c277402/f1p12/1544;c28287/f1p137/2722;c28537/f1p122/1335;c35801/f1p132/2182
+Q9SQV1,DEAD-box ATP-dependent RNA helicase 40,Arabidopsis thaliana,c9288/f1p37/2235
+Q9SR13,Flowering locus K homology domain,Arabidopsis thaliana,c17714/f1p35/3634;c18338/f1p37/2115;c34641/f1p37/3630
+Q9SRZ6,Cytosolic isocitrate dehydrogenase [NADP],Arabidopsis thaliana,c191908/f1p16/1640
+Q9SV60,Xyloglucan endotransglucosylase/hydrolase protein 2,Arabidopsis thaliana,c7583/f1p2/1623
+Q9SY69,Pentatricopeptide repeat-containing protein At1g10270,Arabidopsis thaliana,c33242/f1p16/2531
+Q9SYM5,"Trifunctional UDP-glucose 4,6-dehydratase/UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase/UDP-4-keto-L-rhamnose-reductase RHM1",Arabidopsis thaliana,c1223/f1p207/3532;c1307/f1p208/4631;c142078/f1p152/1812;c16389/f1p189/3004;c24226/f1p205/3422;c24397/f1p160/2492;c24818/f1p193/3194;c25140/f1p64/2464;c26089/f1p207/3416;c28276/f1p209/3825;c30649/f1p212/3388;c30878/f1p143/3245;c31503/f1p206/3340;c40015/f1p151/2308;c51/f1p184/9542;c884/f1p228/4555;c90/f1p200/5083;c90524/f1p131/1411
+Q9SZY1,Nascent polypeptide-associated complex subunit alpha-like protein 4,Arabidopsis thaliana,c185350/f1p2/912
+Q9T074,Phosphoenolpyruvate carboxykinase (ATP),Arabidopsis thaliana,c17164/f1p82/2361;c227291/f1p96/1734;c36035/f1p86/3553
+Q9XFA2,Phosphoenolpyruvate carboxykinase (ATP) 2,Urochloa panicoides,c955/f1p83/3852
+Q9ZRF1,Probable mannitol dehydrogenase,Fragaria ananassa,c113133/f1p42/1170
+Q9ZSA7,Protein DMR6-LIKE OXYGENASE 2,Arabidopsis thaliana,c273387/f1p19/1364
+Q9ZUF6,Subtilisin-like protease SBT1.8,Arabidopsis thaliana,c150546/f1p15/1747

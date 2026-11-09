@@ -1,0 +1,48 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "11",
+    "retmax": "11",
+    "retstart": "0",
+    "idlist": [
+      "2044093652",
+      "2044093650",
+      "2044093648",
+      "2044093646",
+      "2044093644",
+      "2044093642",
+      "2044093640",
+      "2044093638",
+      "166345",
+      "166343",
+      "738925"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "txid4682[Organism:exp]",
+        "field": "Organism",
+        "count": "1029",
+        "explode": "Y"
+      },
+      {
+        "term": "chitinase[Title]",
+        "field": "Title",
+        "count": "255379",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "pdb[Filter]",
+        "field": "Filter",
+        "count": "1118928",
+        "explode": "N"
+      },
+      "NOT"
+    ],
+    "querytranslation": "txid4682[Organism:exp] AND chitinase[Title] NOT pdb[Filter]"
+  }
+}

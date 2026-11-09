@@ -1,0 +1,14 @@
+{
+  "doi": "10.3389/fnut.2021.764133",
+  "aturan_pemilihan": "Label Significant pada Table 7 adalah up atau down",
+  "label_table7": {
+    "down": 26,
+    "up": 163,
+    "no change": 4521
+  },
+  "kelompok_dipilih": 189,
+  "kelompok_dengan_anotasi_swissprot": 157,
+  "baris_pemetaan": 521,
+  "nomor_akses_referensi_unik": 189,
+  "catatan": "Artikel melaporkan 162 up dan 26 down; tabel memuat 163 up dan 26 down. Nomor akses referensi bukan bukti identitas sekuens protein sampel."
+}

@@ -1,0 +1,45 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "7",
+    "retmax": "7",
+    "retstart": "0",
+    "idlist": [
+      "2521317040",
+      "2521317038",
+      "2521317036",
+      "2521317034",
+      "2521317032",
+      "2521317030",
+      "827029595"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "txid4682[Organism:exp]",
+        "field": "Organism",
+        "count": "1029",
+        "explode": "Y"
+      },
+      {
+        "term": "\"FLOWERING LOCUS T\"[All Fields]",
+        "field": "All Fields",
+        "count": "2686",
+        "explode": "N"
+      },
+      {
+        "term": "\"FT-like\"[All Fields]",
+        "field": "All Fields",
+        "count": "377",
+        "explode": "N"
+      },
+      "OR",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "txid4682[Organism:exp] AND (\"FLOWERING LOCUS T\"[All Fields] OR \"FT-like\"[All Fields])"
+  }
+}

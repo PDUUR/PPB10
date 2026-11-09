@@ -1,0 +1,22 @@
+id_ncbi,nomor_aksesi,nama_protein,organisme,panjang_aa
+3106682829,YBV31765.1,"mannose binding lectin, partial [Allium sativum]",Allium sativum,112
+166215077,P83886.3,RecName: Full=Mannose-specific lectin; AltName: Full=ASAL; AltName: Full=ASARI; AltName: Full=Allimin; AltName: Full=Leaf agglutinin; AltName: Full=Root agglutinin; Flags: Precursor,Allium sativum,181
+1519192083,AZA07971.1,mannose-binding plant lectin [Allium sativum],Allium sativum,181
+57235708,AAW48531.1,"mannose-binding insecticidal lectin, partial [Allium sativum]",Allium sativum,120
+38532557,AAR23523.1,"mannose-binding lectin precursor, partial [Allium sativum]",Allium sativum,110
+745672497,AJD19686.1,mannose-binding lectin [Allium sativum],Allium sativum,122
+675360099,AIL84000.1,lectin [Allium sativum],Allium sativum,181
+410031855,AFV53126.1,"lectin, partial [Allium sativum]",Allium sativum,303
+166355,AAA32647.1,"I lectin, partial [Allium sativum]",Allium sativum,309
+1840051,AAB64239.1,"lectin related protein, partial [Allium sativum]",Allium sativum,303
+166359,AAA32649.1,"I lectin, partial [Allium sativum]",Allium sativum,303
+166357,AAA32648.1,"I lectin, partial [Allium sativum]",Allium sativum,303
+166353,AAA32646.1,"I lectin, partial [Allium sativum]",Allium sativum,313
+166351,AAA32645.1,"II lectin, partial [Allium sativum]",Allium sativum,151
+166349,AAA32644.1,"II lectin, partial [Allium sativum]",Allium sativum,144
+166347,AAA32643.1,"II lectin, partial [Allium sativum]",Allium sativum,155
+1840049,AAB64238.1,mannose-specific lectin [Allium sativum],Allium sativum,181
+1840047,AAB64237.1,mannose-specific lectin [Allium sativum],Allium sativum,181
+257224,AAB23592.1,"ASA=mannose-specific lectin {N-terminal} [Allium sativum=garlic, bulbs, Peptide Partial, 30 aa]",Allium sativum,30
+102230895,ABF70332.1,lectin [Allium sativum],Allium sativum,181
+168824096,ACA30402.1,mannose-binding leaf lectin [Allium sativum],Allium sativum,112

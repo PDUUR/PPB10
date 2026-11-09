@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "21",
+    "retmax": "21",
+    "retstart": "0",
+    "idlist": [
+      "3106682829",
+      "166215077",
+      "1519192083",
+      "57235708",
+      "38532557",
+      "745672497",
+      "675360099",
+      "410031855",
+      "166355",
+      "1840051",
+      "166359",
+      "166357",
+      "166353",
+      "166351",
+      "166349",
+      "166347",
+      "1840049",
+      "1840047",
+      "257224",
+      "102230895",
+      "168824096"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "txid4682[Organism:exp]",
+        "field": "Organism",
+        "count": "1029",
+        "explode": "Y"
+      },
+      {
+        "term": "lectin[Title]",
+        "field": "Title",
+        "count": "323888",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "pdb[Filter]",
+        "field": "Filter",
+        "count": "1118928",
+        "explode": "N"
+      },
+      "NOT"
+    ],
+    "querytranslation": "txid4682[Organism:exp] AND lectin[Title] NOT pdb[Filter]"
+  }
+}

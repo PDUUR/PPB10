@@ -1,0 +1,346 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2044093652",
+      "2044093650",
+      "2044093648",
+      "2044093646",
+      "2044093644",
+      "2044093642",
+      "2044093640",
+      "2044093638",
+      "166345",
+      "166343",
+      "738925"
+    ],
+    "2044093652": {
+      "uid": "2044093652",
+      "term": "2044093652",
+      "caption": "QVU21316",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093652|gb|QVU21316.1|",
+      "gi": 2044093652,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 319,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Strelec",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21316.1"
+      },
+      "accessionversion": "QVU21316.1"
+    },
+    "2044093650": {
+      "uid": "2044093650",
+      "term": "2044093650",
+      "caption": "QVU21315",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093650|gb|QVU21315.1|",
+      "gi": 2044093650,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 319,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Sarmat",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21315.1"
+      },
+      "accessionversion": "QVU21315.1"
+    },
+    "2044093648": {
+      "uid": "2044093648",
+      "term": "2044093648",
+      "caption": "QVU21314",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093648|gb|QVU21314.1|",
+      "gi": 2044093648,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 321,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Strelec",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21314.1"
+      },
+      "accessionversion": "QVU21314.1"
+    },
+    "2044093646": {
+      "uid": "2044093646",
+      "term": "2044093646",
+      "caption": "QVU21313",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093646|gb|QVU21313.1|",
+      "gi": 2044093646,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 321,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Sarmat",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21313.1"
+      },
+      "accessionversion": "QVU21313.1"
+    },
+    "2044093644": {
+      "uid": "2044093644",
+      "term": "2044093644",
+      "caption": "QVU21312",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093644|gb|QVU21312.1|",
+      "gi": 2044093644,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 310,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Strelec",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21312.1"
+      },
+      "accessionversion": "QVU21312.1"
+    },
+    "2044093642": {
+      "uid": "2044093642",
+      "term": "2044093642",
+      "caption": "QVU21311",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093642|gb|QVU21311.1|",
+      "gi": 2044093642,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 310,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Sarmat",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21311.1"
+      },
+      "accessionversion": "QVU21311.1"
+    },
+    "2044093640": {
+      "uid": "2044093640",
+      "term": "2044093640",
+      "caption": "QVU21310",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093640|gb|QVU21310.1|",
+      "gi": 2044093640,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 322,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Strelec",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21310.1"
+      },
+      "accessionversion": "QVU21310.1"
+    },
+    "2044093638": {
+      "uid": "2044093638",
+      "term": "2044093638",
+      "caption": "QVU21309",
+      "title": "chitinase [Allium sativum]",
+      "extra": "gi|2044093638|gb|QVU21309.1|",
+      "gi": 2044093638,
+      "createdate": "2021/05/29",
+      "updatedate": "2021/05/29",
+      "taxid": 4682,
+      "slen": 322,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "cultivar",
+      "subname": "Sarmat",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "QVU21309.1"
+      },
+      "accessionversion": "QVU21309.1"
+    },
+    "166345": {
+      "uid": "166345",
+      "term": "166345",
+      "caption": "AAA32641",
+      "title": "chitinase, partial [Allium sativum]",
+      "extra": "gi|166345|gb|AAA32641.1|",
+      "gi": 166345,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/05/19",
+      "taxid": 4682,
+      "slen": 318,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "tech": "concept-trans",
+      "completeness": "partial",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32641.1"
+      },
+      "accessionversion": "AAA32641.1"
+    },
+    "166343": {
+      "uid": "166343",
+      "term": "166343",
+      "caption": "AAA32640",
+      "title": "chitinase, partial [Allium sativum]",
+      "extra": "gi|166343|gb|AAA32640.1|",
+      "gi": 166343,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/05/19",
+      "taxid": 4682,
+      "slen": 302,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "tech": "concept-trans",
+      "completeness": "partial",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32640.1"
+      },
+      "accessionversion": "AAA32640.1"
+    },
+    "738925": {
+      "uid": "738925",
+      "term": "738925",
+      "caption": "2001449A",
+      "title": "chitinase 1",
+      "extra": "gi|738925|prf||2001449A",
+      "gi": 738925,
+      "createdate": "1996/11/14",
+      "updatedate": "1996/11/14",
+      "taxid": 4682,
+      "slen": 318,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "prf",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "2001449A"
+      },
+      "accessionversion": "2001449A"
+    }
+  }
+}

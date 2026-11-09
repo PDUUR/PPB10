@@ -1,0 +1,219 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "2521317040",
+      "2521317038",
+      "2521317036",
+      "2521317034",
+      "2521317032",
+      "2521317030",
+      "827029595"
+    ],
+    "2521317040": {
+      "uid": "2521317040",
+      "term": "2521317040",
+      "caption": "BDG58486",
+      "title": "flowering locus T-like protein 6 [Allium sativum]",
+      "extra": "gi|2521317040|dbj|BDG58486.1|",
+      "gi": 2521317040,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 185,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58486.1"
+      },
+      "accessionversion": "BDG58486.1"
+    },
+    "2521317038": {
+      "uid": "2521317038",
+      "term": "2521317038",
+      "caption": "BDG58485",
+      "title": "flowering locus T-like protein 5 [Allium sativum]",
+      "extra": "gi|2521317038|dbj|BDG58485.1|",
+      "gi": 2521317038,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 179,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58485.1"
+      },
+      "accessionversion": "BDG58485.1"
+    },
+    "2521317036": {
+      "uid": "2521317036",
+      "term": "2521317036",
+      "caption": "BDG58484",
+      "title": "flowering locus T-like protein 4 [Allium sativum]",
+      "extra": "gi|2521317036|dbj|BDG58484.1|",
+      "gi": 2521317036,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 175,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58484.1"
+      },
+      "accessionversion": "BDG58484.1"
+    },
+    "2521317034": {
+      "uid": "2521317034",
+      "term": "2521317034",
+      "caption": "BDG58483",
+      "title": "flowering locus T-like protein 3 [Allium sativum]",
+      "extra": "gi|2521317034|dbj|BDG58483.1|",
+      "gi": 2521317034,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 177,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58483.1"
+      },
+      "accessionversion": "BDG58483.1"
+    },
+    "2521317032": {
+      "uid": "2521317032",
+      "term": "2521317032",
+      "caption": "BDG58482",
+      "title": "flowering locus T-like protein 2 [Allium sativum]",
+      "extra": "gi|2521317032|dbj|BDG58482.1|",
+      "gi": 2521317032,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 175,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58482.1"
+      },
+      "accessionversion": "BDG58482.1"
+    },
+    "2521317030": {
+      "uid": "2521317030",
+      "term": "2521317030",
+      "caption": "BDG58481",
+      "title": "flowering locus T-like protein 1 [Allium sativum]",
+      "extra": "gi|2521317030|dbj|BDG58481.1|",
+      "gi": 2521317030,
+      "createdate": "2023/06/17",
+      "updatedate": "2023/06/17",
+      "taxid": 4682,
+      "slen": 176,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "cultivar|country|collection_date",
+      "subname": "Fukuchi white|Japan|2018-04-16",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "BDG58481.1"
+      },
+      "accessionversion": "BDG58481.1"
+    },
+    "827029595": {
+      "uid": "827029595",
+      "term": "827029595",
+      "caption": "AKJ54481",
+      "title": "flowering locus T [Allium sativum]",
+      "extra": "gi|827029595|gb|AKJ54481.1|",
+      "gi": 827029595,
+      "createdate": "2015/06/07",
+      "updatedate": "2015/06/07",
+      "taxid": 4682,
+      "slen": 175,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AKJ54481.1"
+      },
+      "accessionversion": "AKJ54481.1"
+    }
+  }
+}

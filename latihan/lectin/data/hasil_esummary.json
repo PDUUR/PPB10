@@ -1,0 +1,661 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3106682829",
+      "166215077",
+      "1519192083",
+      "57235708",
+      "38532557",
+      "745672497",
+      "675360099",
+      "410031855",
+      "166355",
+      "1840051",
+      "166359",
+      "166357",
+      "166353",
+      "166351",
+      "166349",
+      "166347",
+      "1840049",
+      "1840047",
+      "257224",
+      "102230895",
+      "168824096"
+    ],
+    "3106682829": {
+      "uid": "3106682829",
+      "term": "3106682829",
+      "caption": "YBV31765",
+      "title": "mannose binding lectin, partial [Allium sativum]",
+      "extra": "gi|3106682829|gb|YBV31765.1|",
+      "gi": 3106682829,
+      "createdate": "2025/11/22",
+      "updatedate": "2025/11/22",
+      "taxid": 4682,
+      "slen": 112,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "country|isolation_source|collection_date",
+      "subname": "India: NE|leaf|27-Oct-2024",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "YBV31765.1"
+      },
+      "accessionversion": "YBV31765.1"
+    },
+    "166215077": {
+      "uid": "166215077",
+      "term": "166215077",
+      "caption": "P83886",
+      "title": "RecName: Full=Mannose-specific lectin; AltName: Full=ASAL; AltName: Full=ASARI; AltName: Full=Allimin; AltName: Full=Leaf agglutinin; AltName: Full=Root agglutinin; Flags: Precursor",
+      "extra": "gi|166215077|sp|P83886.3|ASAL_ALLSA",
+      "gi": 166215077,
+      "createdate": "2004/05/10",
+      "updatedate": "2026/09/02",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "swiss_prot",
+      "completeness": "complete",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "P83886.3"
+      },
+      "accessionversion": "P83886.3"
+    },
+    "1519192083": {
+      "uid": "1519192083",
+      "term": "1519192083",
+      "caption": "AZA07971",
+      "title": "mannose-binding plant lectin [Allium sativum]",
+      "extra": "gi|1519192083|gb|AZA07971.1|",
+      "gi": 1519192083,
+      "createdate": "2018/11/26",
+      "updatedate": "2018/11/26",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "subtype": "country",
+      "subname": "Pakistan",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AZA07971.1"
+      },
+      "accessionversion": "AZA07971.1"
+    },
+    "57235708": {
+      "uid": "57235708",
+      "term": "57235708",
+      "caption": "AAW48531",
+      "title": "mannose-binding insecticidal lectin, partial [Allium sativum]",
+      "extra": "gi|57235708|gb|AAW48531.1|",
+      "gi": 57235708,
+      "createdate": "2005/01/12",
+      "updatedate": "2016/07/26",
+      "taxid": 4682,
+      "slen": 120,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "leaf",
+      "tech": "concept-trans",
+      "completeness": "no-right",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAW48531.1"
+      },
+      "accessionversion": "AAW48531.1"
+    },
+    "38532557": {
+      "uid": "38532557",
+      "term": "38532557",
+      "caption": "AAR23523",
+      "title": "mannose-binding lectin precursor, partial [Allium sativum]",
+      "extra": "gi|38532557|gb|AAR23523.1|",
+      "gi": 38532557,
+      "createdate": "2004/09/01",
+      "updatedate": "2016/07/26",
+      "taxid": 4682,
+      "slen": 110,
+      "moltype": "aa",
+      "topology": "not-set",
+      "sourcedb": "insd",
+      "subtype": "cultivar|tissue_type",
+      "subname": "Desi|leaf",
+      "tech": "concept-trans-a",
+      "completeness": "no-ends",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAR23523.1"
+      },
+      "accessionversion": "AAR23523.1"
+    },
+    "745672497": {
+      "uid": "745672497",
+      "term": "745672497",
+      "caption": "AJD19686",
+      "title": "mannose-binding lectin [Allium sativum]",
+      "extra": "gi|745672497|gb|AJD19686.1|",
+      "gi": 745672497,
+      "createdate": "2015/01/13",
+      "updatedate": "2015/01/13",
+      "taxid": 4682,
+      "slen": 122,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AJD19686.1"
+      },
+      "accessionversion": "AJD19686.1"
+    },
+    "675360099": {
+      "uid": "675360099",
+      "term": "675360099",
+      "caption": "AIL84000",
+      "title": "lectin [Allium sativum]",
+      "extra": "gi|675360099|gb|AIL84000.1|",
+      "gi": 675360099,
+      "createdate": "2014/09/03",
+      "updatedate": "2014/09/03",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "genome": "genomic",
+      "tech": "concept-trans",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AIL84000.1"
+      },
+      "accessionversion": "AIL84000.1"
+    },
+    "410031855": {
+      "uid": "410031855",
+      "term": "410031855",
+      "caption": "AFV53126",
+      "title": "lectin, partial [Allium sativum]",
+      "extra": "gi|410031855|gb|AFV53126.1|",
+      "gi": 410031855,
+      "createdate": "2012/10/30",
+      "updatedate": "2012/10/30",
+      "taxid": 4682,
+      "slen": 303,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "country|isolation_source",
+      "subname": "India|bulb",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AFV53126.1"
+      },
+      "accessionversion": "AFV53126.1"
+    },
+    "166355": {
+      "uid": "166355",
+      "term": "166355",
+      "caption": "AAA32647",
+      "title": "I lectin, partial [Allium sativum]",
+      "extra": "gi|166355|gb|AAA32647.1|",
+      "gi": 166355,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 309,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32647.1"
+      },
+      "accessionversion": "AAA32647.1"
+    },
+    "1840051": {
+      "uid": "1840051",
+      "term": "1840051",
+      "caption": "AAB64239",
+      "title": "lectin related protein, partial [Allium sativum]",
+      "extra": "gi|1840051|gb|AAB64239.1|",
+      "gi": 1840051,
+      "createdate": "1997/02/12",
+      "updatedate": "1997/07/30",
+      "taxid": 4682,
+      "slen": 303,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "clone|tissue_type",
+      "subname": "ASARII|roots",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAB64239.1"
+      },
+      "accessionversion": "AAB64239.1"
+    },
+    "166359": {
+      "uid": "166359",
+      "term": "166359",
+      "caption": "AAA32649",
+      "title": "I lectin, partial [Allium sativum]",
+      "extra": "gi|166359|gb|AAA32649.1|",
+      "gi": 166359,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 303,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32649.1"
+      },
+      "accessionversion": "AAA32649.1"
+    },
+    "166357": {
+      "uid": "166357",
+      "term": "166357",
+      "caption": "AAA32648",
+      "title": "I lectin, partial [Allium sativum]",
+      "extra": "gi|166357|gb|AAA32648.1|",
+      "gi": 166357,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 303,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32648.1"
+      },
+      "accessionversion": "AAA32648.1"
+    },
+    "166353": {
+      "uid": "166353",
+      "term": "166353",
+      "caption": "AAA32646",
+      "title": "I lectin, partial [Allium sativum]",
+      "extra": "gi|166353|gb|AAA32646.1|",
+      "gi": 166353,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 313,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32646.1"
+      },
+      "accessionversion": "AAA32646.1"
+    },
+    "166351": {
+      "uid": "166351",
+      "term": "166351",
+      "caption": "AAA32645",
+      "title": "II lectin, partial [Allium sativum]",
+      "extra": "gi|166351|gb|AAA32645.1|",
+      "gi": 166351,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 151,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32645.1"
+      },
+      "accessionversion": "AAA32645.1"
+    },
+    "166349": {
+      "uid": "166349",
+      "term": "166349",
+      "caption": "AAA32644",
+      "title": "II lectin, partial [Allium sativum]",
+      "extra": "gi|166349|gb|AAA32644.1|",
+      "gi": 166349,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 144,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32644.1"
+      },
+      "accessionversion": "AAA32644.1"
+    },
+    "166347": {
+      "uid": "166347",
+      "term": "166347",
+      "caption": "AAA32643",
+      "title": "II lectin, partial [Allium sativum]",
+      "extra": "gi|166347|gb|AAA32643.1|",
+      "gi": 166347,
+      "createdate": "1993/04/27",
+      "updatedate": "1992/06/25",
+      "taxid": 4682,
+      "slen": 155,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "bulb",
+      "tech": "concept-trans",
+      "completeness": "no-left",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAA32643.1"
+      },
+      "accessionversion": "AAA32643.1"
+    },
+    "1840049": {
+      "uid": "1840049",
+      "term": "1840049",
+      "caption": "AAB64238",
+      "title": "mannose-specific lectin [Allium sativum]",
+      "extra": "gi|1840049|gb|AAB64238.1|",
+      "gi": 1840049,
+      "createdate": "1997/02/12",
+      "updatedate": "1997/07/30",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "clone|tissue_type",
+      "subname": "ASARI|roots",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAB64238.1"
+      },
+      "accessionversion": "AAB64238.1"
+    },
+    "1840047": {
+      "uid": "1840047",
+      "term": "1840047",
+      "caption": "AAB64237",
+      "title": "mannose-specific lectin [Allium sativum]",
+      "extra": "gi|1840047|gb|AAB64237.1|",
+      "gi": 1840047,
+      "createdate": "1997/02/12",
+      "updatedate": "1997/07/30",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "subtype": "clone|tissue_type",
+      "subname": "ASAL|roots",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAB64237.1"
+      },
+      "accessionversion": "AAB64237.1"
+    },
+    "257224": {
+      "uid": "257224",
+      "term": "257224",
+      "caption": "AAB23592",
+      "title": "ASA=mannose-specific lectin {N-terminal} [Allium sativum=garlic, bulbs, Peptide Partial, 30 aa]",
+      "extra": "gi|257224|gb|AAB23592.1||bbm|261188|bbs|119583",
+      "gi": 257224,
+      "createdate": "1993/05/08",
+      "updatedate": "1993/02/05",
+      "taxid": 4682,
+      "slen": 30,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "tech": "seq-pept",
+      "completeness": "partial",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "AAB23592.1"
+      },
+      "accessionversion": "AAB23592.1"
+    },
+    "102230895": {
+      "uid": "102230895",
+      "term": "102230895",
+      "caption": "ABF70332",
+      "title": "lectin [Allium sativum]",
+      "extra": "gi|102230895|gb|ABF70332.1|",
+      "gi": 102230895,
+      "createdate": "2006/05/31",
+      "updatedate": "2006/05/31",
+      "taxid": 4682,
+      "slen": 181,
+      "moltype": "aa",
+      "topology": "not-set",
+      "sourcedb": "insd",
+      "subtype": "tissue_type",
+      "subname": "leaf",
+      "tech": "concept-trans-a",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "ABF70332.1"
+      },
+      "accessionversion": "ABF70332.1"
+    },
+    "168824096": {
+      "uid": "168824096",
+      "term": "168824096",
+      "caption": "ACA30402",
+      "title": "mannose-binding leaf lectin [Allium sativum]",
+      "extra": "gi|168824096|gb|ACA30402.1|",
+      "gi": 168824096,
+      "createdate": "2008/12/01",
+      "updatedate": "2008/12/01",
+      "taxid": 4682,
+      "slen": 112,
+      "moltype": "aa",
+      "topology": "linear",
+      "sourcedb": "insd",
+      "tech": "concept-trans",
+      "geneticcode": "1",
+      "organism": "Allium sativum",
+      "statistics": "",
+      "properties": {
+        "aa": "2",
+        "value": "2"
+      },
+      "oslt": {
+        "indexed": true,
+        "value": "ACA30402.1"
+      },
+      "accessionversion": "ACA30402.1"
+    }
+  }
+}

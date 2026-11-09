@@ -1,0 +1,1003 @@
+{
+  "query_id": "33989cf0-6506-4f39-a6c6-5a6cc2e4e7e6",
+  "result_type": "entry",
+  "total_count": 249,
+  "result_set": [
+    {
+      "identifier": "1DAW",
+      "score": 1.0
+    },
+    {
+      "identifier": "1DAY",
+      "score": 1.0
+    },
+    {
+      "identifier": "1DS5",
+      "score": 1.0
+    },
+    {
+      "identifier": "1F0Q",
+      "score": 1.0
+    },
+    {
+      "identifier": "1J91",
+      "score": 1.0
+    },
+    {
+      "identifier": "1JAM",
+      "score": 1.0
+    },
+    {
+      "identifier": "1LP4",
+      "score": 1.0
+    },
+    {
+      "identifier": "1LPU",
+      "score": 1.0
+    },
+    {
+      "identifier": "1LR4",
+      "score": 1.0
+    },
+    {
+      "identifier": "1M2P",
+      "score": 1.0
+    },
+    {
+      "identifier": "1M2Q",
+      "score": 1.0
+    },
+    {
+      "identifier": "1M2R",
+      "score": 1.0
+    },
+    {
+      "identifier": "1NWD",
+      "score": 1.0
+    },
+    {
+      "identifier": "1OM1",
+      "score": 1.0
+    },
+    {
+      "identifier": "1S4V",
+      "score": 1.0
+    },
+    {
+      "identifier": "1ZOE",
+      "score": 1.0
+    },
+    {
+      "identifier": "1ZOG",
+      "score": 1.0
+    },
+    {
+      "identifier": "1ZOH",
+      "score": 1.0
+    },
+    {
+      "identifier": "2OXD",
+      "score": 1.0
+    },
+    {
+      "identifier": "2OXX",
+      "score": 1.0
+    },
+    {
+      "identifier": "2OXY",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVH",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVJ",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVK",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVL",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVM",
+      "score": 1.0
+    },
+    {
+      "identifier": "2PVN",
+      "score": 1.0
+    },
+    {
+      "identifier": "2QC6",
+      "score": 1.0
+    },
+    {
+      "identifier": "3BE9",
+      "score": 1.0
+    },
+    {
+      "identifier": "3FL5",
+      "score": 1.0
+    },
+    {
+      "identifier": "3KXG",
+      "score": 1.0
+    },
+    {
+      "identifier": "3KXH",
+      "score": 1.0
+    },
+    {
+      "identifier": "3KXM",
+      "score": 1.0
+    },
+    {
+      "identifier": "3KXN",
+      "score": 1.0
+    },
+    {
+      "identifier": "3PVG",
+      "score": 1.0
+    },
+    {
+      "identifier": "3PWD",
+      "score": 1.0
+    },
+    {
+      "identifier": "3PZH",
+      "score": 1.0
+    },
+    {
+      "identifier": "4ANM",
+      "score": 1.0
+    },
+    {
+      "identifier": "4DGM",
+      "score": 1.0
+    },
+    {
+      "identifier": "4DGN",
+      "score": 1.0
+    },
+    {
+      "identifier": "4RLK",
+      "score": 1.0
+    },
+    {
+      "identifier": "5AOG",
+      "score": 1.0
+    },
+    {
+      "identifier": "5IE0",
+      "score": 1.0
+    },
+    {
+      "identifier": "5IE2",
+      "score": 1.0
+    },
+    {
+      "identifier": "5IE3",
+      "score": 1.0
+    },
+    {
+      "identifier": "5O7Y",
+      "score": 1.0
+    },
+    {
+      "identifier": "5O9W",
+      "score": 1.0
+    },
+    {
+      "identifier": "5TS8",
+      "score": 1.0
+    },
+    {
+      "identifier": "5WP4",
+      "score": 1.0
+    },
+    {
+      "identifier": "6QS5",
+      "score": 1.0
+    },
+    {
+      "identifier": "6TGN",
+      "score": 1.0
+    },
+    {
+      "identifier": "6TGP",
+      "score": 1.0
+    },
+    {
+      "identifier": "6TGS",
+      "score": 1.0
+    },
+    {
+      "identifier": "6U9H",
+      "score": 1.0
+    },
+    {
+      "identifier": "6VZ8",
+      "score": 1.0
+    },
+    {
+      "identifier": "9H3G",
+      "score": 1.0
+    },
+    {
+      "identifier": "9H6I",
+      "score": 1.0
+    },
+    {
+      "identifier": "9HES",
+      "score": 1.0
+    },
+    {
+      "identifier": "9HMW",
+      "score": 1.0
+    },
+    {
+      "identifier": "9SCU",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFA2Y053F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFA2YWQ1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFA7Q0V4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFA9PEK8F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFB6EUA9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFB6F107F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFB8B0E2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFB9FDT1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFB9FSC8F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFC0SV51F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFD4N500F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF4IIM1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF4IS56F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF4IXW2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF4JR57F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF4K410F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFF6H9A9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO04619F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO04658F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO22467F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO23787F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO24312F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO24562F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO48832F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO65039F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO65351F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO80476F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO80977F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO80983F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO81283F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO81845F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO82491F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO82515F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFO82802F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP04078F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP08282F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP0C1U4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP0DKK7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP21529F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP22953F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP23444F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP24314F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP27322F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP28523F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP28723F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP29162F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP31251F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP31757F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP32289F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP35681F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP35685F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP37891F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP40781F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP41127F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP42824F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP45727F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP45729F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP46423F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP52416F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP52712F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP54774F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP55217F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP58223F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP84516F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP85076F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP92916F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP92939F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFP93033F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ00874F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ01899F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ02028F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ02439F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ03878F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ05966F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ07346F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0DA21F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0DKY4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0J360F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0J4P2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0J7U6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0JLS6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ0JNR2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ10716F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ10S70F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ39219F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ39693F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ40522F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ41233F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ41607F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ41608F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ42540F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ42605F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ42609F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ42908F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ43054F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ43070F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ43472F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ5FC15F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ5JJV0F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ5JK39F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ5N7W4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ5VNM3F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ60EX6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6ESZ9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6I587F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6IDL4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6K4T4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6YS30F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ6Z1C0F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ7F9I1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ7XSQ9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ84JU4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ84P25F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ84PB7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ84R49F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8GYA6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8H136F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8H8T0F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8L7S6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8L7V3F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8LDP4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8LFT2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8LPS1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8LQJ8F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8RU27F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8S944F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8S9J6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ8W0E4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ93YZ7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ940Q1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ944U4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ94AA4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ94JQ3F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ94K85F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9AR27F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9AT54F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9AT55F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9AT75F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9C566F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9C5E7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9C6B9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9C876F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9C899F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FE65F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FFF4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FG65F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FHM7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FJH6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FKL6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FLI4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FR44F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9FYV1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LF46F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LJE4F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LPC5F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LQI9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LTH7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LUM3F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LV33F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LVJ1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LVT8F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LY75F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LYJ9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LZF6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9LZQ9F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9M2M0F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9M5M7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9M9A8F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9S834F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SB64F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SB81F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SC19F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SFF6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SHL7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SLZ0F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SMT7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SQ56F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SQV1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SR13F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SRZ6F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SV60F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SY69F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SYM5F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9SZY1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9T074F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9XFA2F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9ZRF1F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9ZSA7F1",
+      "score": 1.0
+    },
+    {
+      "identifier": "AF_AFQ9ZUF6F1",
+      "score": 1.0
+    }
+  ]
+}
